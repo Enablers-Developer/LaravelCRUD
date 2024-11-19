@@ -7,6 +7,7 @@
     <title>@yield('title', 'CRUDAPP - Login')</title>
 </head>
 
+
 <body>
     @include('components.navbar')
     <main class="container bg-primary text-white rounded-pill shadow-intense">

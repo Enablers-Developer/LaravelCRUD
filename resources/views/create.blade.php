@@ -6,6 +6,7 @@
     <title>@yield('title', 'CRUDAPP - Create')</title>
 </head>
 
+
 <body>
     @include('components.navbar')
 

@@ -9,6 +9,7 @@
 <body>
     @include('components.navbar')
 
+
     <main class="container bg-primary text-white rounded-pill shadow-intense">
         <div>
             <div>

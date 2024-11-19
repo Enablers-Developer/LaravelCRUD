@@ -6,6 +6,7 @@
     <title>@yield('title', 'CRUDAPP - Home')</title>
 </head>
 
+
 <body>
     {{-- Including the navbar --}}
     @include('components.navbar')
